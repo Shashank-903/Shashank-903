@@ -55,8 +55,8 @@
 
 ## 📚 Certifications
 
-- [Name of Certificate] - *Provider*  
-- [Name of Certificate] - *Provider*
+- [Programming in C++ Certificate by infosys] - *"C:\Users\shash\Downloads\1-381742eb-a047-415e-9e90-72e2fad3bf66.pdf"*  
+- [Web development] - *Provider*
 
 ---
 
