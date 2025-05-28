@@ -47,11 +47,13 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Project 1 Name](https://github.com/yourusername/project1) | Short description of the project and purpose | React, Node.js, MongoDB |
-| [Project 2 Name](https://github.com/yourusername/project2) | Short description of the project and purpose | Python, Flask, SQLite |
-| [Portfolio Website](https://your-portfolio.com) | Personal website to showcase projects and blogs | HTML, CSS, JS |
+| [Project 1 Name](Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Tkinter, CSV
+• A GUI-based tool that automates dataset upload, model selection, and evaluates multiple ML algorithms to
+compare predictive performance with real-time visualizations) | Short description of the project and purpose | React, Node.js, MongoDB |
+| [Project 2 Name](Developed a user-friendly dashboard for doctors and pharmacists, integrating patient history and real-time
+medicine orders; this innovative tool is now utilized by 50+ healthcare professionals, improving response time to
+patient inquiries.) | Short description of the project and purpose | Python, Flask, SQLite |
 
----
 
 ## 📚 Certifications
 
