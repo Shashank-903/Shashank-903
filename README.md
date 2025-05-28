@@ -11,7 +11,7 @@
 💡 I’m passionate about **[ Web Development, c++ with  Dsa,c,python, etc.]**  
 🔭 I’m currently working on improving my **[ React, Python, DSA, Open Source Contributions]**  
 🌱 I’m currently learning **[,Node js,React, etc.]**  
-💬 Ask me about **[e.g., JavaScript, Python, C++, SQL, Git]**  
+💬 Ask me about **[ JavaScript, Python, C++, SQL, Git]**  
 📫 How to reach me: **[shashank2005raghu@gmail.com]**  
 ⚡ Fun fact: *I debug like Sherlock Holmes investigates mysteries.*
 
