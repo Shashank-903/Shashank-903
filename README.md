@@ -69,7 +69,7 @@ patient inquiries.) | Short description of the project and purpose | Python, Fla
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="shashank2005raghu@gmail.com">
-    <img src=" shashank2005raghu@gmail.com" />
+   <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
