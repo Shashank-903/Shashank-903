@@ -65,7 +65,7 @@ patient inquiries.) | Short description of the project and purpose | Python, Fla
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" shashank raghuwanshi="https://www.linkedin.com/in/shashank-raghuwanshi-693529253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/shashank-raghuwanshi-693529253?//yourusername" shashank raghuwanshi="https://www.linkedin.com/in/shashank-raghuwanshi-693529253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="shashank2005raghu@gmail.com">
