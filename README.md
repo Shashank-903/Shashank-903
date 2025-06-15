@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I’m a recent pursuing graduate in **[Bechlores in computer application]** from **[Media Computer College]**  
+🎓 I’m a recent pursuing graduate in **[Bechlores in computer application]** from **[Makhanlal Chaturvedi National University of Journalism and Communication]**  
 💡 I’m passionate about **[ Web Development, c++ with  Dsa,c,python, etc.]**  
 🔭 I’m currently working on improving my **[ React, Python, DSA, Open Source Contributions]**  
 🌱 I’m currently learning **[,Node js,React, etc.]**  
